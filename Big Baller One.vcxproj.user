@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <RemoteMachine0>192.168.0.102:2222</RemoteMachine0>
+    <UseAuthentication0>True</UseAuthentication0>
+    <RemoteMachine1>192.168.0.102</RemoteMachine1>
+    <UseAuthentication1>True</UseAuthentication1>
+    <RemoteMachine2>PCYOGESH:8888</RemoteMachine2>
+    <UseAuthentication2>True</UseAuthentication2>
+    <Source>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</Source>
+    <SmallTileSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</SmallTileSource>
+    <MediumTileSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</MediumTileSource>
+    <WideTileSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</WideTileSource>
+    <LargeTileSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</LargeTileSource>
+    <AppIconSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</AppIconSource>
+    <SplashScreenSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\yogesh.das\Downloads\Webp.net-resizeimage (8).png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Master|ARM'">
+    <DebuggerFlavor>WindowsDeviceDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
