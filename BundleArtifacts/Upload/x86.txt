@@ -1,0 +1,2 @@
+MainPackage=C:\Users\yogesh.das\Documents\Big Baller - Copy\Builds UWP v2\build\bin\Win32\Master\Upload\Big Baller One_1.0.9.0_Win32_Master.appx
+SymbolPackage=C:\Users\yogesh.das\Documents\Big Baller - Copy\Builds UWP v2\build\bin\Win32\Master\Upload\Big Baller One_1.0.9.0_Master\Big Baller One_1.0.9.0_Win32_Master.appxsym
